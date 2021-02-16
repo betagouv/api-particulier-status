@@ -6,6 +6,10 @@ repo: api-particulier-status # Your GitHub repository name
 sites:
   - name: API Particulier
     url: https://particulier.api.gouv.fr/api/ping
+  - name: Données CNAF
+    url: https://particulier.api.gouv.fr/api/caf/ping
+  - name: Données DGFIP
+    url: https://particulier.api.gouv.fr/api/impots/ping
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
