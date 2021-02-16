@@ -12,8 +12,8 @@ status-website:
   cname: status.particulier.api.gouv.fr
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: API Particulier
+  logoUrl: https://api.gouv.fr/images/api-logo/dinum.png
+  name: API Particulier - disponiblité
   introTitle: "Accédez aux données fiscales (DGFIP), familiales (CAF), au statut pôle-emploi et au statut étudiant des particuliers pour simplifier des démarches administratives"
   introMessage: API Particulier facilite l'accès des administrations aux données fiscales (DGFIP), familiales (CAF), au statut pôle-emploi et au statut étudiant d'un citoyen, pour simplifier les démarches administratives mises en oeuvre par les collectivités et les administrations.
   navbar:
@@ -21,6 +21,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/betagouv/api-particulier
+  favicon: https://api.gouv.fr/favicon.ico
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
