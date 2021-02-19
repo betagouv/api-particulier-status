@@ -22,19 +22,19 @@
     "url": "https://particulier.api.gouv.fr/api/caf/ping",
     "icon": "https://favicons.githubusercontent.com/particulier.api.gouv.fr",
     "slug": "donnees-cnaf",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1009,
-    "timeDay": 1130,
-    "timeWeek": 1009,
-    "timeMonth": 1009,
-    "timeYear": 1009,
+    "status": "up",
+    "uptime": "99.67%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
+    "time": 983,
+    "timeDay": 1018,
+    "timeWeek": 983,
+    "timeMonth": 983,
+    "timeYear": 983,
     "dailyMinutesDown": {
-      "2021-02-19": 0
+      "2021-02-19": 13
     }
   },
   {
