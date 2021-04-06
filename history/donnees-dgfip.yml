@@ -1,7 +1,7 @@
 url: https://particulier.api.gouv.fr/api/impots/ping
 status: up
 code: 200
-responseTime: 257
-lastUpdated: 2021-04-05T23:03:40.591Z
+responseTime: 232
+lastUpdated: 2021-04-06T23:02:54.689Z
 startTime: Tue Feb 16 2021 14:47:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
