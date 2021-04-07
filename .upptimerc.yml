@@ -6,10 +6,18 @@ repo: api-particulier-status # Your GitHub repository name
 sites:
   - name: API Particulier
     url: https://particulier.api.gouv.fr/api/ping
-  - name: Données CNAF
+    icon: https://api.gouv.fr/favicon.ico
+  - name: API CNAF
     url: https://particulier.api.gouv.fr/api/caf/ping
-  - name: Données DGFIP
+    icon: https://www.caf.fr/sites/all/themes/caf_v2/favicon.ico
+  - name: Endpoint CNAF v1
+    url: https://particulier.api.gouv.fr/api/caf/famille?numeroAllocataire=$NUMERO_ALLOCATAIRE&codePostal=$CODE_POSTAL
+    headers:
+      - "X-API-Key: $API_KEY"
+    icon: https://www.caf.fr/sites/all/themes/caf_v2/favicon.ico
+  - name: API DGFIP
     url: https://particulier.api.gouv.fr/api/impots/ping
+    icon: https://portail.dgfip.finances.gouv.fr/favicon.ico
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
