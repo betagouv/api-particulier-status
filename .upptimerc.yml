@@ -15,6 +15,21 @@ sites:
     headers:
       - "X-API-Key: $API_KEY"
     icon: https://www.caf.fr/sites/all/themes/caf_v2/favicon.ico
+  - name: Endpoint CNAF v2
+    url: https://particulier.api.gouv.fr/api/v2/composition-familiale?numeroAllocataire=$NUMERO_ALLOCATAIRE&codePostal=$CODE_POSTAL
+    headers:
+      - "X-API-Key: $API_KEY"
+    icon: https://www.caf.fr/sites/all/themes/caf_v2/favicon.ico
+  - name: Endpoint DGFIP v1
+    url: https://particulier.api.gouv.fr/api/impots/svair?numeroFiscal=$NUMERO_FISCAL&referenceAvis=$REFERENCE_AVIS
+    headers:
+      - "X-API-Key: $API_KEY"
+    icon: https://portail.dgfip.finances.gouv.fr/favicon.ico
+  - name: Endpoint DGFIP v2
+    url: https://particulier.api.gouv.fr/api/v2/avis-imposition?numeroFiscal=$NUMERO_FISCAL&referenceAvis=$REFERENCE_AVIS
+    headers:
+      - "X-API-Key: $API_KEY"
+    icon: https://portail.dgfip.finances.gouv.fr/favicon.ico
   - name: API DGFIP
     url: https://particulier.api.gouv.fr/api/impots/ping
     icon: https://portail.dgfip.finances.gouv.fr/favicon.ico
