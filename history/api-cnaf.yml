@@ -1,7 +1,7 @@
 url: https://particulier.api.gouv.fr/api/caf/ping
-status: down
-code: 504
-responseTime: 10097
-lastUpdated: 2021-04-09T00:23:11.424Z
+status: up
+code: 200
+responseTime: 1399
+lastUpdated: 2021-04-09T01:15:59.395Z
 startTime: Wed Apr 07 2021 15:05:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
