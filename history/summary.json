@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 675,
     "timeDay": 1054,
-    "timeWeek": 782,
+    "timeWeek": 776,
     "timeMonth": 698,
     "timeYear": 675,
     "dailyMinutesDown": {}
@@ -22,17 +22,17 @@
     "url": "https://particulier.api.gouv.fr/api/caf/ping",
     "icon": "https://www.caf.fr/sites/all/themes/caf_v2/favicon.ico",
     "slug": "api-cnaf",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6019,
-    "timeDay": 6430,
-    "timeWeek": 6019,
-    "timeMonth": 6019,
-    "timeYear": 6019,
+    "time": 6054,
+    "timeDay": 6590,
+    "timeWeek": 6145,
+    "timeMonth": 6054,
+    "timeYear": 6054,
     "dailyMinutesDown": {}
   },
   {
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 5802,
     "timeDay": 5060,
-    "timeWeek": 5802,
+    "timeWeek": 5944,
     "timeMonth": 5802,
     "timeYear": 5802,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 5802,
     "timeDay": 5663,
-    "timeWeek": 5802,
+    "timeWeek": 5923,
     "timeMonth": 5802,
     "timeYear": 5802,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 305,
     "timeDay": 377,
-    "timeWeek": 305,
+    "timeWeek": 313,
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 285,
     "timeDay": 318,
-    "timeWeek": 285,
+    "timeWeek": 291,
     "timeMonth": 285,
     "timeYear": 285,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 272,
     "timeDay": 288,
-    "timeWeek": 272,
+    "timeWeek": 269,
     "timeMonth": 272,
     "timeYear": 272,
     "dailyMinutesDown": {}
