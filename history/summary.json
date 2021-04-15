@@ -60,18 +60,20 @@
     "url": "https://particulier.api.gouv.fr/api/v2/composition-familiale?numeroAllocataire=$NUMERO_ALLOCATAIRE&codePostal=$CODE_POSTAL",
     "icon": "https://www.caf.fr/sites/all/themes/caf_v2/favicon.ico",
     "slug": "endpoint-cnaf-v2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5685,
-    "timeDay": 4017,
-    "timeWeek": 5963,
-    "timeMonth": 5685,
-    "timeYear": 5685,
-    "dailyMinutesDown": {}
+    "time": 5779,
+    "timeDay": 5540,
+    "timeWeek": 6064,
+    "timeMonth": 5779,
+    "timeYear": 5779,
+    "dailyMinutesDown": {
+      "2021-04-15": 0
+    }
   },
   {
     "name": "Endpoint DGFIP v1",
