@@ -22,19 +22,19 @@
     "url": "https://particulier.api.gouv.fr/api/caf/ping",
     "icon": "https://www.caf.fr/sites/all/themes/caf_v2/favicon.ico",
     "slug": "api-cnaf",
-    "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "99.80%",
-    "time": 5984,
-    "timeDay": 5772,
-    "timeWeek": 6059,
-    "timeMonth": 5984,
-    "timeYear": 5984,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "96.96%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 6000,
+    "timeDay": 5928,
+    "timeWeek": 6075,
+    "timeMonth": 6000,
+    "timeYear": 6000,
     "dailyMinutesDown": {
-      "2021-04-15": 23
+      "2021-04-15": 44
     }
   },
   {
