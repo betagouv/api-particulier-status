@@ -13,7 +13,7 @@
     "time": 674,
     "timeDay": 556,
     "timeWeek": 780,
-    "timeMonth": 699,
+    "timeMonth": 703,
     "timeYear": 674,
     "dailyMinutesDown": {}
   },
@@ -29,7 +29,7 @@
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.30%",
     "time": 6097,
-    "timeDay": 6713,
+    "timeDay": 6535,
     "timeWeek": 6220,
     "timeMonth": 6097,
     "timeYear": 6097,
@@ -42,19 +42,19 @@
     "url": "https://particulier.api.gouv.fr/api/caf/famille?numeroAllocataire=$NUMERO_ALLOCATAIRE&codePostal=$CODE_POSTAL",
     "icon": "https://www.caf.fr/sites/all/themes/caf_v2/favicon.ico",
     "slug": "endpoint-cnaf-v1",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 5765,
-    "timeDay": 5421,
-    "timeWeek": 6107,
-    "timeMonth": 5765,
-    "timeYear": 5765,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "98.17%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 5704,
+    "timeDay": 5423,
+    "timeWeek": 6029,
+    "timeMonth": 5704,
+    "timeYear": 5704,
     "dailyMinutesDown": {
-      "2021-04-15": 11
+      "2021-04-15": 26
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://www.caf.fr/sites/all/themes/caf_v2/favicon.ico",
     "slug": "endpoint-cnaf-v2",
     "status": "up",
-    "uptime": "99.68%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.68%",
+    "uptime": "99.55%",
+    "uptimeDay": "96.25%",
+    "uptimeWeek": "99.46%",
+    "uptimeMonth": "99.55%",
+    "uptimeYear": "99.55%",
     "time": 5655,
     "timeDay": 5494,
     "timeWeek": 5930,
     "timeMonth": 5655,
     "timeYear": 5655,
     "dailyMinutesDown": {
-      "2021-04-15": 39
+      "2021-04-15": 54
     }
   },
   {
