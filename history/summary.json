@@ -22,17 +22,17 @@
     "url": "https://particulier.api.gouv.fr/api/caf/ping",
     "icon": "https://www.caf.fr/sites/all/themes/caf_v2/favicon.ico",
     "slug": "api-cnaf",
-    "status": "down",
+    "status": "up",
     "uptime": "99.30%",
     "uptimeDay": "94.16%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.30%",
     "uptimeYear": "99.30%",
-    "time": 6134,
-    "timeDay": 7022,
-    "timeWeek": 6219,
-    "timeMonth": 6134,
-    "timeYear": 6134,
+    "time": 6097,
+    "timeDay": 6713,
+    "timeWeek": 6220,
+    "timeMonth": 6097,
+    "timeYear": 6097,
     "dailyMinutesDown": {
       "2021-04-15": 84
     }
@@ -42,19 +42,19 @@
     "url": "https://particulier.api.gouv.fr/api/caf/famille?numeroAllocataire=$NUMERO_ALLOCATAIRE&codePostal=$CODE_POSTAL",
     "icon": "https://www.caf.fr/sites/all/themes/caf_v2/favicon.ico",
     "slug": "endpoint-cnaf-v1",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 5710,
-    "timeDay": 5409,
-    "timeWeek": 6030,
-    "timeMonth": 5710,
-    "timeYear": 5710,
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 5765,
+    "timeDay": 5421,
+    "timeWeek": 6107,
+    "timeMonth": 5765,
+    "timeYear": 5765,
     "dailyMinutesDown": {
-      "2021-04-15": 4
+      "2021-04-15": 11
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://www.caf.fr/sites/all/themes/caf_v2/favicon.ico",
     "slug": "endpoint-cnaf-v2",
     "status": "up",
-    "uptime": "99.74%",
-    "uptimeDay": "97.85%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
+    "uptime": "99.68%",
+    "uptimeDay": "97.30%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 5655,
     "timeDay": 5494,
-    "timeWeek": 5893,
+    "timeWeek": 5930,
     "timeMonth": 5655,
     "timeYear": 5655,
     "dailyMinutesDown": {
-      "2021-04-15": 31
+      "2021-04-15": 39
     }
   },
   {
@@ -90,7 +90,7 @@
     "uptimeYear": "100.00%",
     "time": 303,
     "timeDay": 284,
-    "timeWeek": 316,
+    "timeWeek": 325,
     "timeMonth": 303,
     "timeYear": 303,
     "dailyMinutesDown": {}
@@ -108,7 +108,7 @@
     "uptimeYear": "100.00%",
     "time": 282,
     "timeDay": 280,
-    "timeWeek": 289,
+    "timeWeek": 293,
     "timeMonth": 282,
     "timeYear": 282,
     "dailyMinutesDown": {}
@@ -126,7 +126,7 @@
     "uptimeYear": "100.00%",
     "time": 267,
     "timeDay": 238,
-    "timeWeek": 268,
+    "timeWeek": 272,
     "timeMonth": 267,
     "timeYear": 267,
     "dailyMinutesDown": {}
