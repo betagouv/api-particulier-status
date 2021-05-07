@@ -2,6 +2,6 @@ url: https://particulier.api.gouv.fr/api/v2/avis-imposition?numeroFiscal=$NUMERO
 status: up
 code: 200
 responseTime: 217
-lastUpdated: 2021-05-06T23:08:49.330Z
+lastUpdated: 2021-05-07T23:08:22.316Z
 startTime: Wed Apr 07 2021 15:16:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
