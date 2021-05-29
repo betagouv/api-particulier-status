@@ -165,18 +165,19 @@
     "icon": "https://portail.dgfip.finances.gouv.fr/favicon.ico",
     "slug": "api-dgfip",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.85%",
+    "uptimeDay": "92.20%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.85%",
     "time": 475,
     "timeDay": 5395,
     "timeWeek": 1704,
     "timeMonth": 632,
     "timeYear": 475,
     "dailyMinutesDown": {
-      "2021-05-28": 6
+      "2021-05-29": 73,
+      "2021-05-28": 39
     }
   }
 ]
