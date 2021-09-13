@@ -2,6 +2,6 @@ url: https://particulier.api.gouv.fr/api/caf/famille?numeroAllocataire=$NUMERO_A
 status: up
 code: 200
 responseTime: 154
-lastUpdated: 2021-09-12T23:08:50.885Z
+lastUpdated: 2021-09-13T23:09:13.192Z
 startTime: Wed Apr 07 2021 15:05:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
