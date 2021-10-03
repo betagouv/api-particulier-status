@@ -1,7 +1,7 @@
 url: https://particulier.api.gouv.fr/api/impots/svair?numeroFiscal=$NUMERO_FISCAL&referenceAvis=$REFERENCE_AVIS
 status: up
 code: 200
-responseTime: 229
-lastUpdated: 2021-10-02T23:08:57.791Z
+responseTime: 234
+lastUpdated: 2021-10-03T23:09:00.981Z
 startTime: Wed Apr 07 2021 15:16:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
