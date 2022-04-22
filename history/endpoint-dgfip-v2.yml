@@ -1,7 +1,7 @@
 url: https://particulier.api.gouv.fr/api/v2/avis-imposition?numeroFiscal=$NUMERO_FISCAL&referenceAvis=$REFERENCE_AVIS
 status: down
 code: 404
-responseTime: 168
-lastUpdated: 2022-04-21T23:11:08.631Z
+responseTime: 187
+lastUpdated: 2022-04-22T23:11:11.015Z
 startTime: Wed Apr 07 2021 15:16:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
