@@ -1,7 +1,7 @@
 url: https://particulier.api.gouv.fr/api/caf/famille?numeroAllocataire=$NUMERO_ALLOCATAIRE&codePostal=$CODE_POSTAL
 status: up
 code: 200
-responseTime: 172
-lastUpdated: 2022-07-30T23:10:36.032Z
+responseTime: 196
+lastUpdated: 2022-07-31T23:11:40.255Z
 startTime: Wed Apr 07 2021 15:05:38 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
