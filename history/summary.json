@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 621,
-    "timeDay": 642,
-    "timeWeek": 602,
-    "timeMonth": 657,
-    "timeYear": 598,
+    "timeDay": 704,
+    "timeWeek": 618,
+    "timeMonth": 656,
+    "timeYear": 599,
     "dailyMinutesDown": {
       "2021-10-13": 66
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 592,
-    "timeDay": 165,
-    "timeWeek": 140,
-    "timeMonth": 150,
+    "time": 591,
+    "timeDay": 169,
+    "timeWeek": 145,
+    "timeMonth": 149,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2021-10-13": 78
@@ -50,10 +50,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 485,
-    "timeDay": 161,
-    "timeWeek": 245,
-    "timeMonth": 200,
+    "time": 483,
+    "timeDay": 168,
+    "timeWeek": 232,
+    "timeMonth": 171,
     "timeYear": 229,
     "dailyMinutesDown": {
       "2021-10-13": 78
@@ -70,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 406,
-    "timeDay": 161,
-    "timeWeek": 141,
-    "timeMonth": 160,
+    "time": 402,
+    "timeDay": 169,
+    "timeWeek": 149,
+    "timeMonth": 156,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2021-10-13": 78
@@ -85,18 +85,19 @@
     "icon": "https://portail.dgfip.finances.gouv.fr/favicon.ico",
     "slug": "endpoint-dgfip-v1",
     "status": "down",
-    "uptime": "48.88%",
+    "uptime": "48.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.63%",
+    "uptimeYear": "26.36%",
     "time": 538,
-    "timeDay": 348,
-    "timeWeek": 642,
-    "timeMonth": 561,
+    "timeDay": 468,
+    "timeWeek": 594,
+    "timeMonth": 515,
     "timeYear": 563,
     "dailyMinutesDown": {
-      "2022-09-15": 85,
+      "2022-09-16": 86,
+      "2022-09-15": 1440,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -371,8 +372,7 @@
       "2021-10-25": 85,
       "2021-10-13": 78,
       "2021-10-08": 22,
-      "2021-09-23": 20,
-      "2021-09-16": 37
+      "2021-09-23": 20
     }
   },
   {
@@ -381,18 +381,19 @@
     "icon": "https://portail.dgfip.finances.gouv.fr/favicon.ico",
     "slug": "endpoint-dgfip-v2",
     "status": "down",
-    "uptime": "48.89%",
+    "uptime": "48.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.64%",
+    "uptimeYear": "26.36%",
     "time": 357,
-    "timeDay": 253,
-    "timeWeek": 541,
-    "timeMonth": 401,
+    "timeDay": 303,
+    "timeWeek": 518,
+    "timeMonth": 388,
     "timeYear": 365,
     "dailyMinutesDown": {
-      "2022-09-15": 85,
+      "2022-09-16": 86,
+      "2022-09-15": 1440,
       "2022-09-14": 1440,
       "2022-09-13": 1440,
       "2022-09-12": 1440,
@@ -665,8 +666,7 @@
       "2021-10-25": 85,
       "2021-10-13": 78,
       "2021-10-08": 22,
-      "2021-09-23": 20,
-      "2021-09-16": 36
+      "2021-09-23": 20
     }
   },
   {
@@ -681,9 +681,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 435,
-    "timeDay": 165,
-    "timeWeek": 170,
-    "timeMonth": 163,
+    "timeDay": 168,
+    "timeWeek": 175,
+    "timeMonth": 154,
     "timeYear": 472,
     "dailyMinutesDown": {
       "2021-10-13": 78
