@@ -1,7 +1,7 @@
 url: https://particulier.api.gouv.fr/api/v2/composition-familiale?numeroAllocataire=$NUMERO_ALLOCATAIRE&codePostal=$CODE_POSTAL
-status: up
-code: 200
-responseTime: 97
-lastUpdated: 2022-09-19T23:13:41.675Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-09-20T11:48:45.674Z
 startTime: Wed Apr 07 2021 15:16:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
